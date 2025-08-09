@@ -64,7 +64,7 @@ const Product = () => {
         <section>
           <Card className="border">
             <CardHeader>
-              <h1 className="text-3xl md:text-4xl font-semibold leading-none tracking-tight">{product.name}</h1>
+              <h1 className="text-3xl md:text-4xl font-semibold leading-none tracking-tight" data-product-id="product-id-1">{product.name}</h1>
               <p className="text-muted-foreground">Studio-grade sound, anywhere.</p>
             </CardHeader>
             <CardContent className="space-y-6">
