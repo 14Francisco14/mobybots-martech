@@ -15,7 +15,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/mobybots-martech">
         <Header />
         <Routes>
           <Route path="/" element={<Index />} />
