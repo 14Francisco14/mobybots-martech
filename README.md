@@ -14,6 +14,7 @@
 - **GTM**: to install GTM in this website, fork the repository and upload a new version with the necessary changes.
 - **Meta Pixel**: you will need to create your own Meta pixel for testing and debugging, you can do this with your own personal Meta account.
 - **Tag types**: use Custom HTML tags in GTM to trigger the Meta events, not the standard Facebook Pixel tag type.
+- **Results**: Provide a GDoc with screenshots showing the code works and the pixels are tracking correctly. You can explain your code in that same document. Provide the URL to the new published site for testing too.
 
 ---
 
