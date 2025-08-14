@@ -6,7 +6,7 @@
   - Implement three standard events for the Meta pixel using GTM: `PageView`, `ViewContent` and `AddToCart`. The ViewContent and AddToCart events must include the item id, quantity and value. This can all be recovered from the DOM. The ViewContent event should be triggered when the Product Detail Page loads. The PageView event should be triggered on any page load. The AddToCart event should be triggered on the Add to Cart button click.
 
 **NOTE**: This site is running as an example on https://moby-bot.github.io/mobybots-martech, if you decide to fork the repo to make the changes, please provide the new url for review.
-New URL: https://14francisco14.github.io/mobybots-martech/
+New URL: https://14francisco14.github.io/mobybots-martech
 
 ---
 
